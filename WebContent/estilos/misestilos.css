@@ -1,0 +1,33 @@
+@charset "ISO-8859-1";
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: navy;
+  margin-left: 20px;
+}
+
+p{
+	  text-align: center;
+  color: red;
+	
+}
+#para1 {
+	text-align: left;
+	color: yellow;
+}
+
+.parafoClase {        
+	text-align: center;
+	color: green;
+}
+
+table {
+  width: 100%;
+}
+
+th {
+  height: 50px;
+}
+
